@@ -42,7 +42,7 @@ Throughout the development process, several aspects of the project went well:
 
 While developing Study Buddies, we encountered a few struggles and challenges:
 
-**Managing state in a large-scale application:** As the application grew in complexity, managing state across multiple components became increasingly difficult.
+**Coordinating a Large Team:** Coordinating the schedules of 7 busy college students was a difficult task. We overcame this through Scrum methodology: standups twice a week, sprints, and Scrum reviews.
 
 **Implementing real-time chat functionality:** Although we plan to implement this feature in a future version of the application, it proved to be a challenging task during the initial development phase.
 
